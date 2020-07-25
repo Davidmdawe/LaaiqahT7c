@@ -1,0 +1,480 @@
+.version.index /* version checker */
+{
+	color: #0000F8;
+	background-color: #5AD043;
+}
+
+.html
+{
+	background-color: transparent;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	margin-bottom: -36px;
+	width: 0.01px;
+}
+
+#u176
+{
+	z-index: 35;
+	width: 345px;
+	height: 80px;
+	margin-bottom: -4px;
+	margin-right: -10000px;
+	margin-top: 22px;
+}
+
+#menuu146
+{
+	z-index: 10;
+	width: 527px;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 525px;
+}
+
+#u147
+{
+	width: 130px;
+	min-height: 32px;
+	margin-right: -10000px;
+}
+
+#u150
+{
+	width: 130px;
+	padding-bottom: 20px;
+}
+
+#u150:hover
+{
+	width: 130px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u150:active
+{
+	width: 130px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u153-4
+{
+	width: 130px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 10px;
+}
+
+#u150:hover #u153-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 130px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u150:active #u153-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 130px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u154
+{
+	width: 130px;
+	min-height: 32px;
+	margin-right: -10000px;
+	left: 132px;
+}
+
+#u155
+{
+	width: 130px;
+	padding-bottom: 20px;
+}
+
+#u150.MuseMenuActive,#u155:hover
+{
+	width: 130px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u155:active
+{
+	width: 130px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u156-4
+{
+	width: 130px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 10px;
+}
+
+#u150.MuseMenuActive #u153-4,#u155:hover #u156-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 130px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u155:active #u156-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 130px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u162
+{
+	width: 130px;
+	min-height: 32px;
+	margin-right: -10000px;
+	left: 264px;
+}
+
+#u165
+{
+	width: 130px;
+	padding-bottom: 20px;
+}
+
+#u155.MuseMenuActive,#u165:hover
+{
+	width: 130px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u165:active
+{
+	width: 130px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u165.MuseMenuActive
+{
+	width: 130px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u166-4
+{
+	width: 130px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 10px;
+}
+
+#u155.MuseMenuActive #u156-4,#u165:hover #u166-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 130px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u165:active #u166-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 130px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u165.MuseMenuActive #u166-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 130px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u169
+{
+	width: 131px;
+	min-height: 32px;
+	margin-right: -10000px;
+	left: 396px;
+}
+
+#u170
+{
+	width: 131px;
+	padding-bottom: 20px;
+}
+
+#u170:hover
+{
+	width: 131px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u170:active
+{
+	width: 131px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u170.MuseMenuActive
+{
+	width: 131px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u173-4
+{
+	width: 131px;
+	min-height: 12px;
+	margin-right: -10000px;
+	top: 10px;
+}
+
+#u170:hover #u173-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 131px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u170:active #u173-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 131px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u170.MuseMenuActive #u173-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 12px;
+	width: 131px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u106,#u106-bw
+{
+	z-index: 5;
+	min-height: 98px;
+}
+
+#u108-3
+{
+	z-index: 6;
+	width: 8px;
+	min-height: 6px;
+	margin-right: -10000px;
+	margin-top: 105px;
+	left: 316px;
+}
+
+#u96-4
+{
+	z-index: 46;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 126px;
+	left: 96px;
+}
+
+#u97
+{
+	z-index: 50;
+	height: 245px;
+	background: transparent url("../images/vidar-nordli-mathisen-558945-unsplash.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u97-bw
+{
+	z-index: 50;
+	height: 245px;
+}
+
+#u98
+{
+	z-index: 51;
+	height: 245px;
+	background-color: #000000;
+	opacity: 0.38;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=38)";
+	filter: alpha(opacity=38);
+}
+
+#u98-bw
+{
+	z-index: 51;
+	height: 245px;
+}
+
+#u99-8
+{
+	z-index: 52;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 60px;
+	left: 100px;
+}
+
+#pu108-3,#pu81-3
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u81-3
+{
+	z-index: 2;
+	width: 5px;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 422px;
+}
+
+#u431
+{
+	z-index: 60;
+	min-height: 31px;
+	background-color: transparent;
+	padding-bottom: 107px;
+}
+
+#u431_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+}
+
+#u432-4
+{
+	z-index: 61;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#u431-bw
+{
+	z-index: 60;
+	min-height: 31px;
+}
+
+#u433-4
+{
+	z-index: 65;
+	width: 644px;
+	min-height: 107px;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 253px;
+}
+
+#u109
+{
+	z-index: 9;
+	min-height: 49px;
+	padding-bottom: 49px;
+}
+
+#u106_align_to_page,#u109_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u442-4
+{
+	z-index: 42;
+	width: 149px;
+	min-height: 20px;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 120px;
+}
+
+#u441-6
+{
+	z-index: 36;
+	width: 280px;
+	min-height: 36px;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 760px;
+}
+
+#u109-bw
+{
+	z-index: 9;
+	min-height: 49px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
